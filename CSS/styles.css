@@ -1,0 +1,42 @@
+  body {
+    background-color: #9795cf;
+  }
+
+  img {
+    height: 500px;
+  }
+
+  hr {
+    border-style: none;
+    border-top: 7px dotted #e5e5e5;
+    width: 5%;
+  }
+
+  h1 {
+    color: #e5e5e5;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+  }
+
+  h2 {
+    color: #e5e5e5;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+  }
+
+  p, tr, ol, ul, label {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+  }
+
+  a {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #e5e5e5;
+  }
+
+  a:hover {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #52de97;
+  }
+
+
+   .Skills{
+    color: #2d3561;
+  }
